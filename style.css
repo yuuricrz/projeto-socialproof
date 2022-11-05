@@ -203,4 +203,12 @@
         display: flex;
         flex-direction: column;
     }
+    .irene{
+        position: relative;
+        top: 20px;
+    }
+    .anne{
+        position: relative;
+        top: 40px;
+    }
 }
